@@ -1,0 +1,7 @@
+/images/14.jpg /labels/14.png
+/images/155.jpg /labels/155.png
+/images/11.jpg /labels/11.png
+/images/1.jpg /labels/1.png
+/images/12.jpg /labels/12.png
+/images/15.jpg /labels/15.png
+/images/23.jpg /labels/23.png
